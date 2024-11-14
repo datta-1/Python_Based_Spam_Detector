@@ -58,25 +58,3 @@ At the beginning of this file, the spam_detector has been imported so that the f
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
 
 
-<h2> :books: References</h2>
-<ul>
-  <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
-      <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</p>
-  </li>
-  <li><p>Wikipedia.org, 'Naive Bayes Classifier'. [Online].</p>
-      <p>Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier</p>
-  </li>
-  <li><p>Youtube.com, 'Naive Bayes for Spam Detection'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=8aZNAmWKGfs</p>
-  </li>
-  <li><p>Youtube.com, 'Text Classification Using Naive Bayes'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=EGKeC2S44Rs</p>
-  </li>
-  <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
-      <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
-  </li>
-  <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
-      <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
-  </li>
-</ul>
-
